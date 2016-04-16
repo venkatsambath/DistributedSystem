@@ -14,4 +14,8 @@ Supporting mutiple clients using threaded servers
 1. KKMultiServer
 2. KKMultiServerThread
 
+Experimenting with Thrift:
 
+1. Installation of thrift
+http://thrift.apache.org/docs/install/os_x
+2.
